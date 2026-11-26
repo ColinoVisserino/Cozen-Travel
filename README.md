@@ -1,0 +1,1 @@
+Cozen travel app, that will allow users to view the diffrent types of trips they have avaliable and see the itenerary of what each trip entails. The website should also include a sign in system and an admin user status that will allow admins to add new trips from the website
